@@ -1,0 +1,16 @@
+# Сборочные папки
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+
+# Временные файлы
+*.o
+*.obj
+*.exe
+*.out
+*.log
+
+# Бинарные прошивки
+*.uf2
+*.bin
+*.hex
