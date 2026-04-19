@@ -12,7 +12,7 @@ Raspberry Pi Pico Blink (C++)
 
 Клонируйте этот репозиторий:
 
-git clone https://github.com/username/pico-blink-cpp.git
+git clone https://github.com/chebotarevdmitr/pico-blink-cpp.git
 cd pico-blink-cpp
 
 Соберите проект:
